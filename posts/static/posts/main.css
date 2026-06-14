@@ -58,3 +58,27 @@ ul {
     font-size: 2rem;
     margin-bottom: 0.25rem;
 }
+
+.article-img {
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
+}
+
+.article-metadata {
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.article-title {
+    color: #444;
+}
+
+.article-title:hover {
+    color: #0d6efd;
+}
+
+.article-content {
+    white-space: pre-line;
+}
