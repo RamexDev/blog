@@ -2,6 +2,10 @@ asgiref==3.11.1
 crispy-bootstrap5==2026.3
 Django==6.0.6
 django-crispy-forms==2.6
+dj-database-url==2.3.0
+gunicorn==24.0.0
 pillow==12.2.0
+psycopg2-binary==2.9.10
 python-decouple==3.8
 sqlparse==0.5.5
+whitenoise==6.9.0
