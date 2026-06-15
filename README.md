@@ -2,6 +2,8 @@
 
 A full-featured blog application built with Django 6.0, featuring user authentication, profile management with avatars, rich post CRUD operations, pagination, and password reset via email.
 
+**Live demo:** [https://blog-j22t.onrender.com/](https://blog-j22t.onrender.com/)
+
 ## Features
 
 - **User authentication** — register, login, logout
