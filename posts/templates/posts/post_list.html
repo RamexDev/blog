@@ -1,6 +1,7 @@
 {% extends "posts/base.html" %}
 
 {% block content %}
+    <h1> Posts by {{ view.kwargs.username }} ({{ page_obj.paginator.count }})</h1>
 {% for post in posts %}
 <article class="content-section mb-4">
     <div class="d-flex">

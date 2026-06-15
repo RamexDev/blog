@@ -1,0 +1,302 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "My First Blog Post",
+      "content": "This is my first post on the blog.",
+      "date_posted": "2026-06-01T10:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+      "title": "Learning Django",
+      "content": "Django makes building web applications enjoyable.",
+      "date_posted": "2026-06-02T09:15:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+      "title": "Python Tips",
+      "content": "Here are some useful Python tips for beginners.",
+      "date_posted": "2026-06-03T08:30:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 4,
+    "fields": {
+      "title": "Working With Templates",
+      "content": "Templates help separate logic from presentation.",
+      "date_posted": "2026-06-04T11:20:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 5,
+    "fields": {
+      "title": "Bootstrap Basics",
+      "content": "Bootstrap 5 provides responsive components and utilities.",
+      "date_posted": "2026-06-05T07:45:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 6,
+    "fields": {
+      "title": "Database Migrations",
+      "content": "Migrations keep your database schema synchronized.",
+      "date_posted": "2026-06-06T13:10:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 7,
+    "fields": {
+      "title": "Using Virtual Environments",
+      "content": "Virtual environments isolate project dependencies.",
+      "date_posted": "2026-06-07T09:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 8,
+    "fields": {
+      "title": "Understanding URLs",
+      "content": "URL routing is one of Django's core features.",
+      "date_posted": "2026-06-08T15:40:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 9,
+    "fields": {
+      "title": "Debugging Django Apps",
+      "content": "Debugging is a valuable skill for every developer.",
+      "date_posted": "2026-06-09T10:50:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 10,
+    "fields": {
+      "title": "Custom User Profiles",
+      "content": "Extending user functionality with profile models.",
+      "date_posted": "2026-06-10T12:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 11,
+    "fields": {
+      "title": "Deploying Django",
+      "content": "Preparing a Django project for production.",
+      "date_posted": "2026-06-11T08:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 12,
+    "fields": {
+      "title": "Working With Forms",
+      "content": "Forms simplify validation and user input handling.",
+      "date_posted": "2026-06-12T09:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 13,
+    "fields": {
+      "title": "Template Inheritance",
+      "content": "Reuse layouts efficiently with template inheritance.",
+      "date_posted": "2026-06-13T10:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 14,
+    "fields": {
+      "title": "Django Signals",
+      "content": "Signals allow applications to react to events.",
+      "date_posted": "2026-06-14T11:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 15,
+    "fields": {
+      "title": "Static Files",
+      "content": "Serving CSS and JavaScript in Django projects.",
+      "date_posted": "2026-06-15T12:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 16,
+    "fields": {
+      "title": "Media Uploads",
+      "content": "Managing uploaded images and files.",
+      "date_posted": "2026-06-16T13:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 17,
+    "fields": {
+      "title": "Django ORM Queries",
+      "content": "The ORM provides a powerful abstraction layer.",
+      "date_posted": "2026-06-17T14:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 18,
+    "fields": {
+      "title": "Writing Tests",
+      "content": "Automated tests improve software reliability.",
+      "date_posted": "2026-06-18T15:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 19,
+    "fields": {
+      "title": "Class Based Views",
+      "content": "CBVs reduce repetitive code in Django apps.",
+      "date_posted": "2026-06-19T16:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 20,
+    "fields": {
+      "title": "Function Based Views",
+      "content": "FBVs provide explicit control over request handling.",
+      "date_posted": "2026-06-20T17:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 21,
+    "fields": {
+      "title": "Authentication Basics",
+      "content": "Users can register, log in, and log out securely.",
+      "date_posted": "2026-06-21T09:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 22,
+    "fields": {
+      "title": "Pagination",
+      "content": "Breaking large result sets into manageable pages.",
+      "date_posted": "2026-06-22T10:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 23,
+    "fields": {
+      "title": "Django Admin",
+      "content": "The admin site is useful for managing data.",
+      "date_posted": "2026-06-23T11:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 24,
+    "fields": {
+      "title": "Query Optimization",
+      "content": "Use select_related and prefetch_related wisely.",
+      "date_posted": "2026-06-24T12:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 25,
+    "fields": {
+      "title": "REST APIs",
+      "content": "Building APIs is easy with Django REST Framework.",
+      "date_posted": "2026-06-25T13:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 26,
+    "fields": {
+      "title": "Caching Strategies",
+      "content": "Caching can greatly improve performance.",
+      "date_posted": "2026-06-26T14:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 27,
+    "fields": {
+      "title": "Django Security",
+      "content": "Protecting applications from common threats.",
+      "date_posted": "2026-06-27T15:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 28,
+    "fields": {
+      "title": "Using Git",
+      "content": "Version control is essential for developers.",
+      "date_posted": "2026-06-28T16:00:00Z",
+      "author": 2
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 29,
+    "fields": {
+      "title": "Project Structure",
+      "content": "Organizing Django apps effectively.",
+      "date_posted": "2026-06-29T17:00:00Z",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 30,
+    "fields": {
+      "title": "Next Steps",
+      "content": "Continue building and improving your Django skills.",
+      "date_posted": "2026-06-30T18:00:00Z",
+      "author": 2
+    }
+  }
+]

@@ -48,7 +48,11 @@
                         {% if user.is_authenticated %}
 
                         <a class="nav-link" href="{% url 'profile' %}">
-                            {{ user.username }}
+                            Profile
+                        </a>
+
+                        <a class="nav-link" href="{% url 'post-create' %}">
+                            New Post
                         </a>
 
                         <a href="#" class="nav-link"
